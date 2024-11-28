@@ -41,7 +41,7 @@ const CountChart = ({ boys, girls }: { boys: number; girls: number }) => {
         </RadialBarChart>
       </ResponsiveContainer>
       <Image
-        src="/public/maleFemale.png"
+        src="/maleFemale.png"
         alt=""
         width={50}
         height={50}
